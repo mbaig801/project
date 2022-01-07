@@ -210,10 +210,10 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses | Allowed ports|
 |----------|---------------------|----------------------|--------------|
-| Jump-Box | Yes (SSH)           |     73.44.104.81     |  22          |
-|  Web-1   | Yes (HTTP)          |     73.44.104.81     |  80          |
-|  Web-2   | Yes (HTTP)          |     73.44.104.81     |  80          |
-|  Elk-VM  | Yes (HTTP)          |     73.44.104.81     |  5601        |
+| Jump-Box | Yes (SSH)           |     72.41.103.00     |  22          |
+|  Web-1   | Yes (HTTP)          |     72.41.103.00     |  80          |
+|  Web-2   | Yes (HTTP)          |     72.41.103.00     |  80          |
+|  Elk-VM  | Yes (HTTP)          |     72.41.103.00     |  5601        |
 
 ### Elk Configuration
 
